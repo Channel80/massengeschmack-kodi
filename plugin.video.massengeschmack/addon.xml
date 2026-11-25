@@ -23,8 +23,10 @@
         <description lang="en_GB">Massengeschmack is a German online video network producing magazines like Fernsehkritik-TV, Pantoffel-TV and Pressesch(l)au.</description>
         <description lang="de_DE">Massengeschmack ist ein deutsches Online-Video-Netzwerk, das Magazine wie Fernsehkritik-TV, Pantoffel-TV und Pressesch(l)au produziert.</description>
 
-        <disclaimer lang="en_GB">This is not an official add-on and in no way affiliated with Massengeschmack</disclaimer>
-        <disclaimer lang="de_DE">Dies ist kein offizielles Add-on und in keiner Weise an Massengeschmack angegliedert.</disclaimer>
+        <disclaimer lang="en_GB">This is not an official add-on and in no way affiliated with Massengeschmack. Originally by Janek Bevendorff (phoerious); maintained since 3.0.0 by Channel80.</disclaimer>
+        <disclaimer lang="de_DE">Dies ist kein offizielles Add-on und in keiner Weise an Massengeschmack angegliedert. Ursprüngliches Add-on von Janek Bevendorff (phoerious); Wartung ab 3.0.0 durch Channel80.</disclaimer>
+
+        <news>3.1.0~beta — Python-3-Port und Erweiterungen (Inhalte-Einstellungen, Ansichten, API-Drosselung). Quelle: GitHub Channel80/massengeschmack-kodi</news>
 
         <assets>
             <icon>resources/media/icon.png</icon>
