@@ -1,0 +1,21 @@
+Massengeschmack 3.1.27 – LibreELEC
+===================================
+
+WICHTIG: „Aus ZIP installieren“ funktioniert bei dieser ZIP vom SMB-Laufwerk
+meist NICHT (zip://smb://… Failed to open). Das ist kein kaputtes Addon.
+
+Variante A – ZIP lokal installieren (empfohlen wenn du die ZIP nutzen willst)
+  1. plugin.video.massengeschmack-3.1.27.zip auf den LibreELEC-PC kopieren
+     nach /storage/Download/  (per Explorer oder Dateimanager)
+  2. Kodi: Add-ons → Paket-Symbol → Aus ZIP installieren
+  3. Die ZIP unter /storage/Download/ wählen (nicht vom Netzlaufwerk)
+
+Variante B – Ordner kopieren (ohne ZIP)
+  1. Ordner kopieren-nach-kodi-addons\plugin.video.massengeschmack\
+     komplett nach /storage/.kodi/addons/plugin.video.massengeschmack/
+     (alten Ordner vorher löschen oder ersetzen)
+  2. Kodi neu starten
+  3. In der Kodi-Log muss stehen: plugin.video.massengeschmack v3.1.27 installed
+
+Der Ordnername auf dem Gerät MUSS plugin.video.massengeschmack heißen
+(nicht …-addon oder Massengeschmack-addon-…).
